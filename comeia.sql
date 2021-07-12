@@ -48,7 +48,7 @@ CREATE TABLE `cliente_entity` (
 --
 
 INSERT INTO `cliente_entity` (`id`, `cep`, `rua`, `bairro`, `cidade`, `complemento`, `cpfoucnpj`, `data_cadastro`, `nome`, `numero`, `telefone`, `tipo`, `uf`) VALUES
-(7, '55000-000', 'rua duque', 'centro', 'Caruaru', 'sem complemento', '132.201.684-42', '2021-07-10 10:00:33', 'João', '102', '8199204-0413', 'Cliente PF', 'PE');
+(7, '55000-000', 'rua duque', 'centro', 'Caruaru', 'sem complemento', '132.343.123-34', '2021-07-10 10:00:33', 'João', '102', '8134324-0413', 'Cliente PF', 'PE');
 
 -- --------------------------------------------------------
 
